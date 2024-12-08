@@ -1,0 +1,1 @@
+# MNIST_hand_sign_detection
